@@ -17,3 +17,12 @@
 * Domain - https://www.namecheap.com/
 * DNS - https://www.digitalocean.com/
 * Hosting - https://app.netlify.com
+
+### Day 1: May 28, 2020
+##### Configuring and modifying my blog site
+
+**Today's Progress**: I configured and modified the starte blog I created yesterday. Learning the structure and how this thing works.
+
+**Thoughts:** There is a lot that is involved with the starter blog and I'm not familiar with React yet so it was a bit overwhelming. That's ok, one step at a time, this time...
+
+**Link to work:** [Blog](blog.cctechwiz.com) - [Blog Repo](https://github.com/cctechwiz/cctechwiz-blog)
