@@ -30,7 +30,7 @@
 ### Day 2: May 29, 2020
 ##### Personal URL Shortner / Aliases
 
-**Today's Progress**: Created a personal url shortener to give redirectable aliases to urls. I plan to use this on my blog and other sites where a url might change, or I just want a shortened version.
+**Today's Progress**: Created a personal url shortener to give redirectable aliases to urls. I plan to use this on my blog and other sites where a url might change, or I just want a shortened version. Primary shortener link is cctw.link but link.cctechwiz.com also works.
 
 **Thoughts:** Pretty simple to setup using Netlify and GitHub.
 
