@@ -26,3 +26,24 @@
 **Thoughts:** There is a lot that is involved with the starter blog and I'm not familiar with React yet so it was a bit overwhelming. That's ok, one step at a time, this time...
 
 **Link to work:** [Blog](blog.cctechwiz.com) - [Blog Repo](https://github.com/cctechwiz/cctechwiz-blog)
+
+### Day 2: May 29, 2020
+##### Personal URL Shortner / Aliases
+
+**Today's Progress**: Created a personal url shortener to give redirectable aliases to urls. I plan to use this on my blog and other sites where a url might change, or I just want a shortened version.
+
+**Thoughts:** Pretty simple to setup using Netlify and GitHub.
+
+**Link to work:** [Short URL](cctw.link) - [Source](https://github.com/cctechwiz/netlify-url-shortener)
+
+---
+
+### Day #: Month DD, YYYY
+##### 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
