@@ -36,6 +36,15 @@
 
 **Link to work:** [Short URL](cctw.link) - [Source](https://github.com/cctechwiz/netlify-url-shortener)
 
+### Day 3: May 30, 2020
+##### Hands on Training for OWASP ZAP
+
+**Today's Progress**: I played with OWASP ZAP today using a new Coursera guided project.
+
+**Thoughts:** I was OK, nothing too special though. Fun to learn a new tool though.
+
+**Link to work:** [Certificate](https://coursera.org/share/17ad430707617e230ef4f32564a65eb0)
+
 ---
 
 ### Day #: Month DD, YYYY
