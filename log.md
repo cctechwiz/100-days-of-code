@@ -45,6 +45,15 @@
 
 **Link to work:** [Certificate](https://coursera.org/share/17ad430707617e230ef4f32564a65eb0)
 
+### Day 4: June 1, 2020
+##### Getting Started with Xamarin.iOS
+
+**Today's Progress**: I created a starter app with Xamarin.iOS. I got stuck because I don't own a mac and don't have money in the budget this month to pay for a MacinCloud instance. Also, my iPhone USB port is broken, so I'll have to use the Simulate iPhone for testing rather than my own for now.
+
+**Thoughts:** Seems promising, but I'll need to figure out access to a mac and iPhone... I guess this plann was not very well thought out.
+
+**Link to work:** [Learning Path](https://docs.microsoft.com/en-us/learn/modules/introduction-to-xamarin-ios/)
+
 ---
 
 ### Day #: Month DD, YYYY
