@@ -54,6 +54,15 @@
 
 **Link to work:** [Learning Path](https://docs.microsoft.com/en-us/learn/modules/introduction-to-xamarin-ios/)
 
+### Day 5: June 2, 2020
+##### Jessica's Recipe App Design
+
+**Today's Progress**: Picked back up on a project I started a while ago to build a web app for my wife to use as a recipe book. Mostly just reading and re-familiarizing myself with the project status. Some additional design and planning work as well.
+
+**Thoughts:** I'm going to continue to try for vanilla JS, HTML, and CSS for this site so I can make myself learn the basics of web dev from the bottom up.
+
+**Link to work:** [Test Site](https://github.com/cctechwiz/vanilla_site) Note: This link will change once this idea is validated and starts becoming the actual web app instead of a prototype.
+
 ---
 
 ### Day #: Month DD, YYYY
