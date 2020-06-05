@@ -63,6 +63,16 @@
 
 **Link to work:** [Test Site](https://github.com/cctechwiz/vanilla_site) Note: This link will change once this idea is validated and starts becoming the actual web app instead of a prototype.
 
+### Day 6: June 5, 2020
+##### Jessica's Recipy App SPA redo
+
+**Today's Progress**: I restarted on Jess' recipe app with a better structure. This time it is patterned after the Single Page Application architecture, but written in vanilla JS (no huge frameworks!)
+
+**Thoughts:** This seems like a good idea now, hopefully given the size of the project it remains managable. Plus this is meant to be a learning experience, so this should work great for that.
+
+**Link to work:** [Repo](https://github.com/cctechwiz/vanilla_site)
+
+
 ---
 
 ### Day #: Month DD, YYYY
