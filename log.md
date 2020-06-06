@@ -64,11 +64,20 @@
 **Link to work:** [Test Site](https://github.com/cctechwiz/vanilla_site) Note: This link will change once this idea is validated and starts becoming the actual web app instead of a prototype.
 
 ### Day 6: June 5, 2020
-##### Jessica's Recipy App SPA redo
+##### Jessica's Recipe App SPA redo
 
 **Today's Progress**: I restarted on Jess' recipe app with a better structure. This time it is patterned after the Single Page Application architecture, but written in vanilla JS (no huge frameworks!)
 
 **Thoughts:** This seems like a good idea now, hopefully given the size of the project it remains managable. Plus this is meant to be a learning experience, so this should work great for that.
+
+**Link to work:** [Repo](https://github.com/cctechwiz/vanilla_site)
+
+### Day 7: June 6, 2020
+##### Jessica's Recipe App Repository
+
+**Today's Progress**: Created a Repository service to use for requesting a list of all recipes or a specific recipe. Currently it is just using an array in the service itself, but should be easy enough to hook to an API eventually.
+
+**Thoughts:** Learned about using asyc / await calls. I'm using them already even though it's accessing a local array, since it will eventually be using API calls.
 
 **Link to work:** [Repo](https://github.com/cctechwiz/vanilla_site)
 
