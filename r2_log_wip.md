@@ -19,8 +19,20 @@
 
 **Link to work:** [Repo](https://github.com/lone-llama-workshop/Permafrost-Slide-Puzzle)
 
-**Tweet:**
+**Tweet:** (forgot to include #100DaysOfCode today... oops)
+[2/100] Started my next #GameDev project `Permafrost: Slide Puzzle` using #GodotEngine. The objective is to slide over all the grass and freeze it w/o getting stuck. Got the placeholder assets made in #Aseprite and the TileMap setup in Godot. Repo: https://github.com/lone-llama-workshop/Permafrost-Slide-Puzzle
 
+### Day 3: June 16, 2020
+##### Home page listing and linking recipes
+
+**Today's Progress**: Rename project to Simmerdown! I got the home page to list all recipes with links to their respective view page. Also some general refactoring and house keeping.
+
+**Thoughts:** Pretty good progress today, now I can move on to the skeleton of the edit page.
+
+**Link to work:** [Simmerdown](https://github.com/cctechwiz/simmerdown)
+
+**Tweet:**
+[3/100] #100DaysOfCode Renamed my wife's recipe app to Simmerdown, it has a nice ring to it. Today I worked on getting all the recipes listed on the Home page with links to their respective View pages. Also did some general refactoring of Services. Repo: https://github.com/cctechwiz/simmerdown
 
 
 ---
