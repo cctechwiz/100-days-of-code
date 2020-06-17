@@ -34,6 +34,17 @@
 **Tweet:**
 [3/100] #100DaysOfCode Renamed my wife's recipe app to Simmerdown, it has a nice ring to it. Today I worked on getting all the recipes listed on the Home page with links to their respective View pages. Also did some general refactoring of Services. Repo: https://github.com/cctechwiz/simmerdown
 
+### Day 4: June 17, 2020
+##### Basic New Recipe Page
+
+**Today's Progress**: Flushed out all of the New Recipe page execpt the save logic.
+
+**Thoughts:** This went well. I'm going to need to start thinking about where I will needed classes for styling things though.
+
+**Link to work:** [Simmerdown](https://github.com/cctechwiz/simmerdown)
+
+**Tweet:**
+[4/100] #100DaysOfCode Created skeleton of "New Recipe" page w/o save logic, everything else is working though. I'm really going to need to start thinking about styling soon, which is definitely not my strong point. Repo: https://github.com/cctechwiz/simmerdown
 
 ---
 
