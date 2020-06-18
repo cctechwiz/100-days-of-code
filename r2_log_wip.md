@@ -46,9 +46,21 @@
 **Tweet:**
 [4/100] #100DaysOfCode Created skeleton of "New Recipe" page w/o save logic, everything else is working though. I'm really going to need to start thinking about styling soon, which is definitely not my strong point. Repo: https://github.com/cctechwiz/simmerdown
 
+### Day 5: June 18, 2020
+##### Recipe Object from New Page content
+
+**Today's Progress**: Added Recipe class model. Creating newRecipe using that class from contents of New Recipe page. Relinked Netlify deploy to renamed repo... oops.
+
+**Thoughts:** The `document.querySelector` is awesome and made this whole process so much easier.
+
+**Link to work:** [Simmerdown](https://github.com/cctechwiz/simmerdown) [Site](https://simmerdown.netlify.app/) [Netlify Dashboard](https://app.netlify.com/sites/simmerdown/overview)
+
+**Tweet:**
+[5/100] #100DaysOfCode Learned how to properly used `document.querySelector()` today to pull all of the inputs from the New Recipe page and create an instance of a Recipe class to pass on to the Repository for saving / caching. Repo: https://github.com/cctechwiz/simmerdown
+
 ---
 
-### Day #: Month DD, YYYY
+### Day #: Month DD, 2020
 ##### 
 
 **Today's Progress**: 
