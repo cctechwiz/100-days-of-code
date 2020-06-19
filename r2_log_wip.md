@@ -58,6 +58,19 @@
 **Tweet:**
 [5/100] #100DaysOfCode Learned how to properly used `document.querySelector()` today to pull all of the inputs from the New Recipe page and create an instance of a Recipe class to pass on to the Repository for saving / caching. Repo: https://github.com/cctechwiz/simmerdown
 
+### Day 6: June 19, 2020
+##### New Recipe Page MVP Done
+
+**Today's Progress**: Completed the New Recipe page MVP. It will save the new recipe into the repository local cache (which still goes away on reload for now).
+
+**Thoughts:** This went well, there were a couple of gotcha's like reloading the New Page to add another recipe after saving, with my current setup this wiped the repository.
+
+**Link to work:** [Simmerdown](https://github.com/cctechwiz/simmerdown) [Site](https://simmerdown.netlify.app/) [Netlify Dashboard](https://app.netlify.com/sites/simmerdown/overview)
+
+**Tweet:**
+[6/100] #100DaysOfCode
+
+
 ---
 
 ### Day #: Month DD, 2020
@@ -70,3 +83,4 @@
 **Link to work:** 
 
 **Tweet:**
+[/100] #100DaysOfCode
