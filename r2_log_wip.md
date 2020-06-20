@@ -70,6 +70,17 @@
 **Tweet:**
 [6/100] #100DaysOfCode Flushed out the rest of the New Recipe Page MVP. Moving on to hooking up FaunaDB to a collection of Netlify serverless functions for DB interactions next. Repo: https://github.com/cctechwiz/simmerdown
 
+### Day 7: June 20, 2020
+##### Got Started with FaunaDB and GraphQL
+
+**Today's Progress**: I setup my FaunaDB account and database and created the GraphQL schema. I'm still trying to wrap my head around calling those endpoints from Netlify Functions.
+
+**Thoughts:** It was a large mental overhead learning GraphQL today along with the weirdness around calling them from Netlify Functions. I need to let my brain stew on this for a while and come back to it. The biggest issue so far has been that all the examples are way to complex for what I'm trying to do so they can be hard to follow.
+
+**Link to work:** [Simmerdown](https://github.com/cctechwiz/simmerdown) [Site](https://simmerdown.netlify.app/) [Netlify Dashboard](https://app.netlify.com/sites/simmerdown/overview) [FaunaDB Dashboard](https://dashboard.fauna.com/)
+
+**Tweet:**
+[7/100] #100DaysOfCode I setup my #FaunaDB account/database and created my first #GraphQL schema! Still trying to wrap my head around calling those "endpoints". It was a large mental overhead learning GraphQL, my brain stew on this for a while and come back to it later.
 
 ---
 
