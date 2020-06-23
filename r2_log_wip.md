@@ -82,6 +82,19 @@
 **Tweet:**
 [7/100] #100DaysOfCode I setup my #FaunaDB account/database and created my first #GraphQL schema! Still trying to wrap my head around calling those "endpoints". It was a large mental overhead learning GraphQL, my brain stew on this for a while and come back to it later.
 
+### Day 8: June 22, 2020
+##### 
+
+**Today's Progress**: Worked on getting the calls to FaunaDB working. Still getting Index does not exist errors. This will take some more debugging.
+
+**Thoughts:** Not sure what's going on, but I also wasn't completely in it tonight.
+
+**Link to work:** [Simmerdown](https://github.com/cctechwiz/simmerdown) [Site](https://simmerdown.netlify.app/) [Netlify Dashboard](https://app.netlify.com/sites/simmerdown/overview) [FaunaDB Dashboard](https://dashboard.fauna.com/)
+
+**Tweet:**
+[8/100] #100DaysOfCode Worked on getting the calls to FaunaDB working. Still getting Index does not exist errors. This will take some more debugging when my head is more in the game. Repo: https://github.com/cctechwiz/simmerdown
+
+
 ---
 
 ### Day #: Month DD, 2020
