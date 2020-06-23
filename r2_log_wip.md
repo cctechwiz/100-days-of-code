@@ -94,6 +94,18 @@
 **Tweet:**
 [8/100] #100DaysOfCode Worked on getting the calls to FaunaDB working. Still getting Index does not exist errors. This will take some more debugging when my head is more in the game. Repo: https://github.com/cctechwiz/simmerdown
 
+### Day 9: June 23, 2020
+##### 
+
+**Today's Progress**: Found that my query works fine on the deployed site. The issue is with my SECRET_KEY somehow not using the correct env var locally. I messed something up setting up fauna during `netlify dev` or something. I'll have to try again tomorrow.
+
+**Thoughts:** This stuff makes me feel so dumb sometimes.
+
+**Link to work:** 
+
+**Tweet:**
+[9/100] #100DaysOfCode Found that my query works fine on the deployed site. The issue is with my SECRET_KEY somehow not using the correct env var locally. I messed something up setting up fauna during `netlify dev` or something. This stuff makes me feel so dumb sometimes.
+
 
 ---
 
@@ -107,4 +119,4 @@
 **Link to work:** 
 
 **Tweet:**
-[/100] #100DaysOfCode
+[XXXXXXXX/100] #100DaysOfCode
