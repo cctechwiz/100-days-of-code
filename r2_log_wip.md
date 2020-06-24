@@ -106,6 +106,17 @@
 **Tweet:**
 [9/100] #100DaysOfCode Found that my query works fine on the deployed site. The issue is with my SECRET_KEY somehow not using the correct env var locally. I messed something up setting up fauna during `netlify dev` or something. This stuff makes me feel so dumb sometimes.
 
+### Day 10: June 24, 2020
+##### 
+
+**Today's Progress**: Fixed the auth error I was getting by removing the Fauna Netlify Addon, that wasn't needed if I had the token in env vars. I also converted the API code from using the fauna client to calling the GraphQL endpoint directly with queries. Still need to clean up some code around that change.
+
+**Thoughts:** Using GraphQL is going to make my code much cleaner since I won't need a different function for each CRUD call, just a different query or mutation string.
+
+**Link to work:** [Simmerdown](https://cctw.link/sd-repo) [Site](https://cctw.link/sd) [Netlify Dashboard](https://app.netlify.com/sites/simmerdown/overview) [FaunaDB Dashboard](https://dashboard.fauna.com/)
+
+**Tweet:**
+[10/100] #100DaysOfCode Fixed my SECRET_KEY error by removing the Fauna Netlify Addon. Converted my Netlify function from using the fauna client to calling the GraphQL endpoint directly. This will significantly simplify the code going forward. Repo: https://cctw.link/sd-repo
 
 ---
 
