@@ -118,6 +118,18 @@
 **Tweet:**
 [10/100] #100DaysOfCode Fixed my SECRET_KEY error by removing the Fauna Netlify Addon. Converted my Netlify function from using the fauna client to calling the GraphQL endpoint directly. This will significantly simplify the code going forward. Repo: https://cctw.link/sd-repo
 
+### Day 11: June 25, 2020
+##### 
+
+**Today's Progress**: Cleaned up and renamed fauna graphql serverless function, this one function now handles any graphql passed to it and returns the data. This way I only need this one single serverless function to handle all the database queries from my Api Service. Implemented getRecipeById call. Returning unpacked data from the Api Service now instead of raw GraphQL response.
+
+**Thoughts:** Things went much smoother today interacting with GraphQL. I didn't get all the endpoint in the Api Service implemented like I wanted to, but I'm getting closer. The two queries (get & getAll) are done, now I need to implement the mutations (create, update, & delete).
+
+**Link to work:** [Simmerdown](https://cctw.link/sd-repo) [Site](https://cctw.link/sd) [Netlify Dashboard](https://app.netlify.com/sites/simmerdown/overview) [FaunaDB Dashboard](https://dashboard.fauna.com/)
+
+**Tweet:**
+[11/100] #100DaysOfCode Things went smoother today with #GraphQL. I implemented the two queries (get & getAll) in the Api Service, now I need to implement the mutations (create, update, & delete). Repo: https://cctw.link/sd-repo
+
 ---
 
 ### Day #: Month DD, 2020
