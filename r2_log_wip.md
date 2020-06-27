@@ -142,6 +142,18 @@
 **Tweet:**
 [12/100] #100DaysOfCode Fixed #GraphQL schema and implemented the create Recipe Api call, recipes are now being saved to the database! Next is finishing update and delete Recipe Api calls. Repo: https://cctw.link/sd-repo
 
+### Day 13: June 27, 2020
+##### MVP Complete!
+
+**Today's Progress**: Finished create and delete calls along with associated view logic. Clean up Api Service and guarded against errors when calling Api when not logged in. This marks the completion of the MVP.
+
+**Thoughts:** This is coming along nicely. I can now have Jess play with it and we can start itterating on design and additional functionality.
+
+**Link to work:** [Simmerdown](https://cctw.link/sd-repo) [Site](https://cctw.link/sd) [Netlify Dashboard](https://app.netlify.com/sites/simmerdown/overview) [FaunaDB Dashboard](https://dashboard.fauna.com/)
+
+**Tweet:**
+[13/100] #100DaysOfCode Finished the create and delete Api calls and their View logic. Cleaned up the app overall. The MVP is now complete! I can now have my wife play with it and I can start iterating on design and additional functionality. Repo: https://cctw.link/sd-repo
+
 ---
 
 ### Day #: Month DD, 2020
