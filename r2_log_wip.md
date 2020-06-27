@@ -130,10 +130,22 @@
 **Tweet:**
 [11/100] #100DaysOfCode Things went smoother today with #GraphQL. I implemented the two queries (get & getAll) in the Api Service, now I need to implement the mutations (create, update, & delete). Repo: https://cctw.link/sd-repo
 
+### Day 12: June 26, 2020
+##### createRecipe Api call working
+
+**Today's Progress**:  Fixed GraphQL schema and implemented createRecipe Api call, recipes are now being saved to the database! Still need to finish update and delete Api calls as well as Repository caching.
+
+**Thoughts:** This was a bit more compicated working with graphql mutations instead of plain queries but eneded up making sense.
+
+**Link to work:** [Simmerdown](https://cctw.link/sd-repo) [Site](https://cctw.link/sd) [Netlify Dashboard](https://app.netlify.com/sites/simmerdown/overview) [FaunaDB Dashboard](https://dashboard.fauna.com/)
+
+**Tweet:**
+[12/100] #100DaysOfCode Fixed #GraphQL schema and implemented the create Recipe Api call, recipes are now being saved to the database! Next is finishing update and delete Recipe Api calls. Repo: https://cctw.link/sd-repo
+
 ---
 
 ### Day #: Month DD, 2020
-##### 
+##### SUMMARY
 
 **Today's Progress**: 
 
