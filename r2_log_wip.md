@@ -154,6 +154,18 @@
 **Tweet:**
 [13/100] #100DaysOfCode Finished the create and delete Api calls and their View logic. Cleaned up the app overall. The MVP is now complete! I can now have my wife play with it and I can start iterating on design and additional functionality. Repo: https://cctw.link/sd-repo
 
+### Day 14: June 29, 2020
+##### Header & Search MVP
+
+**Today's Progress**: Flushed out basic header with search box and title linked ot home page.
+
+**Thoughts:** Kind of weak effort today, but I coded something, so that's good.
+
+**Link to work:** [Simmerdown](https://cctw.link/sd-repo) [Site](https://cctw.link/sd) [Netlify Dashboard](https://app.netlify.com/sites/simmerdown/overview) [FaunaDB Dashboard](https://dashboard.fauna.com/)
+
+**Tweet:**
+[14/100] #100DaysOfCode Flushed out basic header with search box and title linked to home page. Kind of weak effort today, but I coded something, so that's good. Repo: https://cctw.link/sd-repo
+
 ---
 
 ### Day #: Month DD, 2020
