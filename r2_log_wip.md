@@ -166,6 +166,18 @@
 **Tweet:**
 [14/100] #100DaysOfCode Flushed out basic header with search box and title linked to home page. Kind of weak effort today, but I coded something, so that's good. Repo: https://cctw.link/sd-repo
 
+### Day 15: June 30, 2020
+##### Moved search to Home from Header
+
+**Today's Progress**: Move the search filtering from the header into the home page where it makes more sense.
+
+**Thoughts:** Today's changes were pretty fun.
+
+**Link to work:** [Simmerdown](https://cctw.link/sd-repo) [Site](https://cctw.link/sd) [Netlify Dashboard](https://app.netlify.com/sites/simmerdown/overview) [FaunaDB Dashboard](https://dashboard.fauna.com/)
+
+**Tweet:**
+[15/100] #100DaysOfCode Moved the search filtering logic from the header into the home page where it makes more sense. I can always use some #CSS magic to float it into the top right if that's where I really want to see it. Repo: https://cctw.link/sd-repo
+
 ---
 
 ### Day #: Month DD, 2020
