@@ -178,6 +178,19 @@
 **Tweet:**
 [15/100] #100DaysOfCode Moved the search filtering logic from the header into the home page where it makes more sense. I can always use some #CSS magic to float it into the top right if that's where I really want to see it. Repo: https://cctw.link/sd-repo
 
+### Day 16: July 1, 2020
+##### Repository Caching
+
+**Today's Progress**: I added caching to the Repository service to speed up navigation after initial load and reduce database calls.
+
+**Thoughts:** This worked out pretty well, now I need to remove some of my `await` calls to help the loading appear even faster.
+
+**Link to work:** [Simmerdown](https://cctw.link/sd-repo) [Site](https://cctw.link/sd) [Netlify Dashboard](https://app.netlify.com/sites/simmerdown/overview) [FaunaDB Dashboard](https://dashboard.fauna.com/)
+
+**Tweet:**
+[16/100] #100DaysOfCode I added caching to the Repository service to speed up navigation after initial load and reduce database calls. Repo: https://cctw.link/sd-repo
+
+
 ---
 
 ### Day #: Month DD, 2020
