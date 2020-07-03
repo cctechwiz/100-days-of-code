@@ -190,6 +190,17 @@
 **Tweet:**
 [16/100] #100DaysOfCode I added caching to the Repository service to speed up navigation after initial load and reduce database calls. Repo: https://cctw.link/sd-repo
 
+### Day 17: July 2, 2020
+##### Figured out Content Security Policy meta tag
+
+**Today's Progress**: Figured out Content Security Policy meta tag to allow local scripts and Netlify Identity.
+
+**Thoughts:** I never knew about this header before, it makes a lot of sense and I like it [CSP Info](https://stackoverflow.com/questions/30280370/how-does-content-security-policy-work).
+
+**Link to work:** [Simmerdown](https://cctw.link/sd-repo) [Site](https://cctw.link/sd) [Netlify Dashboard](https://app.netlify.com/sites/simmerdown/overview) [FaunaDB Dashboard](https://dashboard.fauna.com/)
+
+**Tweet:**
+[17/100] #100DaysOfCode Learned about Content Security Policy meta tag. Never knew about this header before and as a security professional I like it! Configured it to only allow my locally hosted scripts and the Netlify Identity widget. Repo: https://cctw.link/sd-repo
 
 ---
 
