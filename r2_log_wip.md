@@ -202,6 +202,25 @@
 **Tweet:**
 [17/100] #100DaysOfCode Learned about Content Security Policy meta tag. Never knew about this header before and as a security professional I like it! Configured it to only allow my locally hosted scripts and the Netlify Identity widget. Repo: https://cctw.link/sd-repo
 
+### Day 18: July 3, 2020
+##### Maintenance
+
+**Today's Progress**:
+General maintenance today;  
+* Played with moving package.json into functions (reverted based on Netlify recommendations)
+* Fixed bug of dereference data that was undefined by adding another ? or more opitional chaining
+* Added more meta tags to index.html for Description and Author
+* Removed old code that I was keeping for reference (everything I wanted to keep has already been superseded)
+* Created READMD.md with basic dependencies and install guide
+* Crated MIT license file
+
+**Thoughts:** It was nice to clean up some things that were bothering me
+
+**Link to work:** [Simmerdown](https://cctw.link/sd-repo)
+
+**Tweet:**
+[18/100] #100DaysOfCode Did some general maintenance today; Fixed a bug dereferencing `undefined` while not logged in, created README and LICENSE files, deleted old reference code that has since been superseded. Overall, it was quite therapeutic. Repo: https://cctw.link/sd-repo
+
 ---
 
 ### Day #: Month DD, 2020
