@@ -221,6 +221,18 @@ General maintenance today;
 **Tweet:**
 [18/100] #100DaysOfCode Did some general maintenance today; Fixed a bug dereferencing `undefined` while not logged in, created README and LICENSE files, deleted old reference code that has since been superseded. Overall, it was quite therapeutic. Repo: https://cctw.link/sd-repo
 
+### Day 19: July 4th, 2020
+##### Grid Snapping
+
+**Today's Progress**: Got basic grid snapping working in the puzzle slider game I'm working on.
+
+**Thoughts:** Doesn't quite work how I want, but I think it's good enough for now to get rolling with. Plus the snapping should only happen on the initial load.
+
+**Link to work:** https://github.com/lone-llama-workshop/Permafrost-Slide-Puzzle
+
+**Tweet:**
+[19/100] #100DaysOfCode Got basic grid snapping working in the puzzle slider game I'm working on. Repo: https://github.com/lone-llama-workshop/Permafrost-Slide-Puzzle
+
 ---
 
 ### Day #: Month DD, 2020
