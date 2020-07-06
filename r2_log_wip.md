@@ -233,6 +233,18 @@ General maintenance today;
 **Tweet:**
 [19/100] #100DaysOfCode Got basic grid snapping working in the puzzle slider game I'm working on. Repo: https://github.com/lone-llama-workshop/Permafrost-Slide-Puzzle
 
+### Day 20: July 6th, 2020
+##### Login Guarding & Basic CSS Beginings
+
+**Today's Progress**: Prevented most of the content from being rendered if a user is not logged in. Added some very basic flexbox centering to all contnet on the page.
+
+**Thoughts:** An unauthenticated user couldn't make any api requests so the pages were usually half rendered. Now it just looks cleaner before the user logs in. Just adding basic centering to the pages and text makes it look a lot closer to the desired final product already.
+
+**Link to work:** [Simmerdown](https://cctw.link/sd-repo)
+
+**Tweet:**
+[20/100] #100DaysOfCode Prevented site from looking half-rendered, due to an unauthenticated user not getting data from the API. Added basic flexbox / text centering to whole site. This makes it look a lot closer to the final idea already! Repo: https://cctw.link/sd-repo
+
 ---
 
 ### Day #: Month DD, 2020
