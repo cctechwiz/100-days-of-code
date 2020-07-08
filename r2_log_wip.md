@@ -245,6 +245,18 @@ General maintenance today;
 **Tweet:**
 [20/100] #100DaysOfCode Prevented site from looking half-rendered, due to an unauthenticated user not getting data from the API. Added basic flexbox / text centering to whole site. This makes it look a lot closer to the final idea already! Repo: https://cctw.link/sd-repo
 
+### Day 21: Month DD, 2020
+##### Collapsable category headers and enhanced search 
+
+**Today's Progress**: Created "collapsible" category headers that hide all recipes in that category when collapsed. Added debounce to searching and blur on enter to hopefully help with mobile keyboards. I also added some more basic styling with placeholder colors to start getting a better feel for the final product.
+
+**Thoughts:** This was a more code heavy session working out things I hadn't thought about before. I feel really good after this one.
+
+**Link to work:** [Simmerdown](https://cctw.link/sd-repo)
+
+**Tweet:**
+[21/100] #100DaysOfCode Created collapsible headers that hide all recipes under it. Added debounce to search, and blur on enter to close mobile keyboards.  Tuned CSS and placeholder colors. Lots of new challenges tonight, I feel great after this one. Repo: https://cctw.link/sd-repo
+
 ---
 
 ### Day #: Month DD, 2020
