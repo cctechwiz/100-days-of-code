@@ -257,6 +257,18 @@ General maintenance today;
 **Tweet:**
 [21/100] #100DaysOfCode Created collapsible headers that hide all recipes under it. Added debounce to search, and blur on enter to close mobile keyboards.  Tuned CSS and placeholder colors. Lots of new challenges tonight, I feel great after this one. Repo: https://cctw.link/sd-repo
 
+### Day 22: Month DD, 2020
+##### Button Footers
+
+**Today's Progress**: Added a buttons footer with a left and right floating button. Did some other CSS styling.
+
+**Thoughts:** It's starting to look pretty good! I still need icons for the buttons so the look more uniform.
+
+**Link to work:** [Simmerdown](https://cctw.link/sd-repo)
+
+**Tweet:**
+[22/100] #100DaysOfCode Added a buttons footer with a left and right floating button. Did some other CSS styling. It's starting to look pretty good! I still need icons for the buttons so the look more uniform. Repo: https://cctw.link/sd-repo
+
 ---
 
 ### Day #: Month DD, 2020
