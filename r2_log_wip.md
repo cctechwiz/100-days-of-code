@@ -245,7 +245,7 @@ General maintenance today;
 **Tweet:**
 [20/100] #100DaysOfCode Prevented site from looking half-rendered, due to an unauthenticated user not getting data from the API. Added basic flexbox / text centering to whole site. This makes it look a lot closer to the final idea already! Repo: https://cctw.link/sd-repo
 
-### Day 21: Month DD, 2020
+### Day 21: July 7th, 2020
 ##### Collapsable category headers and enhanced search 
 
 **Today's Progress**: Created "collapsible" category headers that hide all recipes in that category when collapsed. Added debounce to searching and blur on enter to hopefully help with mobile keyboards. I also added some more basic styling with placeholder colors to start getting a better feel for the final product.
@@ -257,7 +257,7 @@ General maintenance today;
 **Tweet:**
 [21/100] #100DaysOfCode Created collapsible headers that hide all recipes under it. Added debounce to search, and blur on enter to close mobile keyboards.  Tuned CSS and placeholder colors. Lots of new challenges tonight, I feel great after this one. Repo: https://cctw.link/sd-repo
 
-### Day 22: Month DD, 2020
+### Day 22: July 8th, 2020
 ##### Button Footers
 
 **Today's Progress**: Added a buttons footer with a left and right floating button. Did some other CSS styling.
@@ -268,6 +268,23 @@ General maintenance today;
 
 **Tweet:**
 [22/100] #100DaysOfCode Added a buttons footer with a left and right floating button. Did some other CSS styling. It's starting to look pretty good! I still need icons for the buttons so the look more uniform. Repo: https://cctw.link/sd-repo
+
+
+# SKIPPED July 9th :( Making up on July 10th
+
+
+### Day 23: July 10th, 2020
+##### Fixed Footer and added Icons
+
+**Today's Progress**: Fixed the footer click through issues using pointer-events. Added Font Awesome icons to make footer buttons look better.
+
+**Thoughts:** Pretty simple hour tonight, just figuring out how to use Font Awesome icons.
+
+**Link to work:** [Simmerdown](https://cctw.link/sd-repo)
+
+**Tweet:**
+[23/100] #100DaysOfCode Fixed the footer click through issues using pointer-events. Figured out how to use Font Awesome icons to make footer buttons look better. Repo: https://cctw.link/sd-repo
+
 
 ---
 
