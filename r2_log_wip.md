@@ -285,6 +285,17 @@ General maintenance today;
 **Tweet:**
 [23/100] #100DaysOfCode Fixed the footer click through issues using pointer-events. Figured out how to use Font Awesome icons to make footer buttons look better. Repo: https://cctw.link/sd-repo
 
+### Day 24: July 11, 2020
+##### Fixed mobile sticky hovery, using Icons everywhere now
+
+**Today's Progress**: Fixed the sticky hover on mobile by adding a class to the root when on a non-touch device and predicating all :hover effects with that class in the CSS. I also replaced everywhere on the site with icons where I wanted them. Buttons look and behave much better on mobile.
+
+**Thoughts:** I need to find a better way to test on my device rather than commiting and publishing the code to test it. Maybe the custom viewports stuff in desktop firefox.
+
+**Link to work:** [Simmerdown](https://cctw.link/sd-repo)
+
+**Tweet:**
+[24/100] #100DaysOfCode Fixed mobile sticky hover with  a class on the root when non-touch and predicating all :hover with that class. Replaced everywhere on the site with icons where I wanted them. Buttons look and behave much better on mobile. Repo: https://cctw.link/sd-repo
 
 ---
 
