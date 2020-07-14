@@ -297,6 +297,18 @@ General maintenance today;
 **Tweet:**
 [24/100] #100DaysOfCode Fixed mobile sticky hover with  a class on the root when non-touch and predicating all :hover with that class. Replaced everywhere on the site with icons where I wanted them. Buttons look and behave much better on mobile. Repo: https://cctw.link/sd-repo
 
+### Day 25: July 13, 2020
+##### Permafrost Playable MVP
+
+**Today's Progress**: Got Permafrost to a playable MVP today with Chris. You can slide around and complete levels. Levels are defined in text files and loaded into a TileMap.
+
+**Thoughts:** This was kind of a jam day, Chris came over to Linette's house and we worked together for several hours.
+
+**Link to work:** [Repo](https://github.com/lone-llama-workshop/Permafrost-Slide-Puzzle)
+
+**Tweet:**
+[25/100] #100DaysOfCode Took a break from Simmerdown today to do some #GameDev on a hobby game I've been thinking about for a while. Got it to a playable MVP during a self declared several hour "mini jam" today. [Repo](https://github.com/lone-llama-workshop/Permafrost-Slide-Puzzle)
+
 ---
 
 ### Day #: Month DD, 2020
