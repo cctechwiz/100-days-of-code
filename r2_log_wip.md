@@ -309,6 +309,18 @@ General maintenance today;
 **Tweet:**
 [25/100] #100DaysOfCode Took a break from Simmerdown today to do some #GameDev on a hobby game I've been thinking about for a while. Got it to a playable MVP during a self declared several hour "mini jam" today. [Repo](https://github.com/lone-llama-workshop/Permafrost-Slide-Puzzle)
 
+### Day 26: July 14, 2020
+##### Button and Input Styling
+
+**Today's Progress**: Fixed up some buttons and inputs styling to match better between different pages.
+
+**Thoughts:** Pretty basics stuff I guess, but CSS is my weakest area still so the practice was good.
+
+**Link to work:** [Simmerdown](https://cctw.link/sd-repo)
+
+**Tweet:**
+[26/100] #100DaysOfCode Fixed up some buttons and inputs styling to match better between different pages. Pretty basics stuff I guess, but CSS is my weakest area still so the practice was good. Repo: https://cctw.link/sd-repo
+
 ---
 
 ### Day #: Month DD, 2020
