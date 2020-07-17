@@ -321,6 +321,25 @@ General maintenance today;
 **Tweet:**
 [26/100] #100DaysOfCode Fixed up some buttons and inputs styling to match better between different pages. Pretty basics stuff I guess, but CSS is my weakest area still so the practice was good. Repo: https://cctw.link/sd-repo
 
+### Day 27: July 16, 2020
+##### Custom Modal, Clean up, & Bug Fixes
+
+**Today's Progress**: 
+    * Created basic custom confirm modal component class
+    * Wrapped ingredient unordered list into two columns
+    * Added 'All' category to home page, and genericized 'Other' category so it cannot be selected on New/Edit page
+    * Pulled common logic/HTML from New/Edit pages out into HtmlBuilder
+    * Fixed bug when saving edits that the cached copy wasn't updated correctly
+
+**Thoughts:** It was fun creating a custom modal, and it's always refreshing to refactor code
+
+**Link to work:** [Simmerdown](https://cctw.link/sd-repo)
+
+**Tweet:**
+[27/100] #100DaysOfCode Built a confirmation modal using an #ES6 class and promises. I also did some clean up, refactoring, and bug fixing; which is always refreshing. Repo: https://cctw.link/sd-repo
+
+
+
 ---
 
 ### Day #: Month DD, 2020
