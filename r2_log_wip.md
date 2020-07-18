@@ -338,7 +338,17 @@ General maintenance today;
 **Tweet:**
 [27/100] #100DaysOfCode Built a confirmation modal using an #ES6 class and promises. I also did some clean up, refactoring, and bug fixing; which is always refreshing. Repo: https://cctw.link/sd-repo
 
+### Day 28: July 17, 2020
+##### Replaced window.confirm with Modal Confirm
 
+**Today's Progress**: I replaced all the window.confirm dialogs with my custom ModalConfrim dialogs.
+
+**Thoughts:** Pretty basic tonight, but got the time in.
+
+**Link to work:** [Simmerdown](https://cctw.link/sd-repo)
+
+**Tweet:**
+[28/100] #100DaysOfCode Pretty basic tonight, but got the time in by replacing all the window.confirm dialogs with my custom confirm modal dialogs.
 
 ---
 
