@@ -350,6 +350,22 @@ General maintenance today;
 **Tweet:**
 [28/100] #100DaysOfCode Pretty basic tonight, but got the time in by replacing all the window.confirm dialogs with my custom confirm modal dialogs.
 
+
+# Took a mental health week
+
+
+### Day 29: July 24, 2020
+##### Fixed Alignment of Category Checkboxes
+
+**Today's Progress**: Today I fixed the alignment of the category checkboxes. 
+
+**Thoughts:** It's been bugging me for a while that the checkboxes didn't line up correctly. It looks much better now that those aren't all over the place in the center of the screen.
+
+**Link to work:** [Simmerdown](https://cctw.link/sd-repo)
+
+**Tweet:**
+[29/100] #100DaysOfCode After taking a week off for my sanity, today I fixed the alignment of the category checkboxes. It's been bugging me for a while that the checkboxes didn't line up correctly. Repo: https://cctw.link/sd-repo
+
 ---
 
 ### Day #: Month DD, 2020
