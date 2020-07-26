@@ -366,6 +366,18 @@ General maintenance today;
 **Tweet:**
 [29/100] #100DaysOfCode After taking a week off for my sanity, today I fixed the alignment of the category checkboxes. It's been bugging me for a while that the checkboxes didn't line up correctly. Repo: https://cctw.link/sd-repo
 
+### Day 30: July 25, 2020
+##### Plex Server Setup / Configuration
+
+**Today's Progress**: Today I setup and configured a Plex server. Not really coding today, but finally knocking something off my tech bucket list that I've been wanting to do forever, so I'm counting it.
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Tweet:**
+[30/100] #100DaysOfCode Today I setup and configured a Plex server. Not really coding today, execept for some simple transcoding scripts. I'm happy to finally be knocking something off my tech bucket list that I've been wanting to do forever, so I'm counting it.
+
 ---
 
 ### Day #: Month DD, 2020
