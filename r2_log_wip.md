@@ -378,6 +378,18 @@ General maintenance today;
 **Tweet:**
 [30/100] #100DaysOfCode Today I setup and configured a Plex server. Not really coding today, execept for some simple transcoding scripts. I'm happy to finally be knocking something off my tech bucket list that I've been wanting to do forever, so I'm counting it.
 
+### Day 31: July 27, 2020
+##### Fixed logout bug
+
+**Today's Progress**: Fixed a bug that appeared when logging out. Turns out it was simply an incorrect CSS selector *facepalm*.
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Tweet:**
+[31/100] #100DaysOfCode Fixed a bug that appeared when logging out. Turns out it was simply an incorrect CSS selector. 🤦‍♂️ With this, Simmerdown is pretty close to being ready to my wife start using it and giving me feedback. Repo: https://cctw.link/sd-repo
+
 ---
 
 ### Day #: Month DD, 2020
